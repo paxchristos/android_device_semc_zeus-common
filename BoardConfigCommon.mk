@@ -34,6 +34,6 @@ TARGET_KERNEL_SOURCE := kernel/semc/zeus
 # Try to build the kernel
 TARGET_KERNEL_CONFIG := fxp_zeus_defconfig
 # Keep this as a fallback
-TARGET_PREBUILT_KERNEL := device/semc/zeus/kernel
+#TARGET_PREBUILT_KERNEL := device/semc/zeus/kernel
 
 -include device/semc/msm7x30-common/Android.mk
