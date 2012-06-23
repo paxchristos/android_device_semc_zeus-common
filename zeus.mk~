@@ -23,6 +23,10 @@ PRODUCT_PACKAGES += \
  	 24	
 PRODUCT_COPY_FILES += \
  	frameworks/base/data/etc/android.hardware.camera.front.xml:system/etc/permissions/android.hardware.camera.front.xml
+ 	 26	
++
+23	 27	
+ # Init files
 
 # Init files
 PRODUCT_COPY_FILES += \
